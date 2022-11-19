@@ -1,0 +1,3 @@
+Material_Database_Prediction <- read_excel("C:/Users/rsengu03/Documents/Postdoc and Interns/Interns/2022/ANN/Material_Database_Prediction.xlsx",
+sheet = "Training and Validation data",
+range = "A5:X52", col_names = FALSE)
